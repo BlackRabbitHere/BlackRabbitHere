@@ -20,3 +20,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackrabbithere&show_icons=true&locale=en&layout=compact" alt="blackrabbithere" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrabbithere&" alt="blackrabbithere" /></p>
+
+**Visitor Count**
+
+
+![Visitor Count](https://profile-counter.glitch.me/BlackRabbitHere/count.svg)
